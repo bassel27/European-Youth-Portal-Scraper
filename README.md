@@ -24,3 +24,6 @@ The program will open a Chrome window and start scraping the opportunities for y
 
 ## License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+## Notes
+Please be respectful when scraping websites and do not overload their servers with requests. This program is intended for personal use only.
