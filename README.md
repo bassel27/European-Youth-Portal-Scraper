@@ -6,8 +6,8 @@ is to allow users to easily filter through the volunteering opportunities availa
 the website by their country, as the website currently does not offer this functionality.
 
 ## Technologies/Libraries Used
-Selenium 
-CSV
+1. Selenium
+2. CSV
 
 ## Setup
 1. Clone the repository:
